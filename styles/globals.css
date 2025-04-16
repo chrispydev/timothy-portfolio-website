@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./macbook.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer components {
+  .uses-container {
+    @apply list-[square] p-4 flex flex-col space-y-3 font-light italic text-[0.9rem];
+  }
+}
