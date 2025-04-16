@@ -2,7 +2,7 @@
 
 <img src="./chrispydev.png">
 
-Link to my website [https://chrispydev.vercel.app/](https://chrispydev.vercel.app/)
+<!--Link to my website [https://chrispydev.vercel.app/](https://chrispydev.vercel.app/)-->
 
 ## Getting Started
 
